@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:14.000
+Choose an enzyme and a mutation budget. A 544 aa enzyme and CO2 define this example. The default library budget is 1,000.
+
+00:00:14.000 --> 00:00:28.000
+Three generation models, one focused library. ProteinDPO, EnzGFM and VESM3 contribute to the mutation-library workflow.
+
+00:00:28.000 --> 00:00:36.000
+Inspect the saved library scores. The LLR plot replays retained substitution scores; animation does not measure inference speed.
+
+00:00:36.000 --> 00:00:52.000
+Inspect evidence for each candidate. The Assistant sets a checked policy; each candidate’s uncertainty changes the model influence.
+
+00:00:52.000 --> 00:01:00.000
+Read the score as a sum of evidence. Colored segments show model contributions. Grey pulls uncertain predictions towards 0.5.
+
+00:01:00.000 --> 00:01:30.000
+Explore the sequence atlas. Pan, zoom and select a Top-K candidate. Substitutions are highlighted in dark blue.
+
+00:01:30.000 --> 00:01:55.000
+Deliver traceable candidates. Export the prediction table, report and host-specific coding DNA for WT plus Top-5.
+
+00:01:55.000 --> 00:02:31.000
+Retrieve protein information through ESM Atlas. P01308 is an independent database example: insulin, 110 aa, with sequence and SAE features.
+
+00:02:31.000 --> 00:02:54.000
+Inspect the matched WT structure. This supplied 544-residue backbone supports rotation and representation changes.
+
+00:02:54.000 --> 00:03:15.000
+Ask the Assistant to use a sequence tool. An explicit residue interval is extracted through a real tool call.
+
+00:03:15.000 --> 00:03:24.000
+Inspect the returned sequence. Residues 35–180 yield 146 residues. Long waits between requests and replies are shortened.
+
+00:03:24.000 --> 00:03:44.000
+Translate DNA and reuse imported records. Translate DNA, edit inputs safely, and convert FASTA records into BioArtifact JSON.
+
+00:03:44.000 --> 00:04:08.000
+Keep computation under user control. A new request was accepted by M3. While still pending, the demonstration request was cancelled.
+
+00:04:08.000 --> 00:04:15.000
+A framework for the next design cycle. Return selected sequences and new evidence to another iteration. Multi-round wet-lab work remains prospective.
