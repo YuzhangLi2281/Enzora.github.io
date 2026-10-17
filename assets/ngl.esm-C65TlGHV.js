@@ -1,4 +1,4 @@
-import{c as i0}from"./index-oYGB27Z2.js";/**
+import{c as i0}from"./index-C3ypjWZQ.js";/**
  * @license
  * Copyright 2010-2023 Three.js Authors
  * SPDX-License-Identifier: MIT
